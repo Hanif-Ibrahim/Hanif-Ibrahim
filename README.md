@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanif-Ibrahim
+- 👋🏾 Hi, I’m @Hanif-Ibrahim
 - 👀 I’m interested in expanding my github profile and Information Technology subjects.
 - 🌱 I’m currently learning HTML, Microsoft SQL, and Oracle SQL.
 - 💞️ I’m looking to collaborate on just about anything. I welcome all opportunities to learn.
